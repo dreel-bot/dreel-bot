@@ -1,21 +1,21 @@
 {
-  "name": "bot-base_general",
-  "version": "1.0.0",
+  "name": "dreel-bot",
+  "version": "0..1",
   "description": "Voici la structure pour créer un bot général.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Guscraftin/Bot-base_General.git"
+    "url": "git+https://github.com/dreel-bot/dreel-bot.git"
   },
   "author": "Guscraftin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Guscraftin/Bot-base_General/issues"
+    "url": "https://github.com/dreel-bot/dreel-bot/issues"
   },
-  "homepage": "https://github.com/Guscraftin/Bot-base_General#readme",
+  "homepage": "https://github.com/dreel-bot/dreel-bot#readme",
   "dependencies": {
     "discord-giveaways": "^6.0.1",
     "discord.js": "14.7.1",
